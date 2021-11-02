@@ -1,0 +1,1482 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-11-02T20:32:27.436+09:00
+  initializedAtString: 2021-11-02T20:26:33.469+09:00
+  entries:
+  - path: Experiment2\Assets\SteamVR_Resources\Resources\SteamVR_Settings.asset
+    fullPath: E:\unity_experiment\Experiment2\Assets\SteamVR_Resources\Resources\SteamVR_Settings.asset
+    projectPath: Assets\SteamVR_Resources\Resources\SteamVR_Settings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\APIUpdater\project-dependencies.graph
+    fullPath: E:\unity_experiment\Experiment2\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ArtifactDB
+    fullPath: E:\unity_experiment\Experiment2\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ArtifactDB-lock
+    fullPath: E:\unity_experiment\Experiment2\Library\ArtifactDB-lock
+    projectPath: Library\ArtifactDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\Artifacts\09\09cc7041ecbdc4e552df74866579bcbd
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\09\09cc7041ecbdc4e552df74866579bcbd
+    projectPath: Library\Artifacts\09\09cc7041ecbdc4e552df74866579bcbd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Library\Artifacts\12\1218d2d8c05a8a12ef96d23a82500d4e
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\12\1218d2d8c05a8a12ef96d23a82500d4e
+    projectPath: Library\Artifacts\12\1218d2d8c05a8a12ef96d23a82500d4e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\19\19d6b2d44191cec6f3e91cb5fd7134c6
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\19\19d6b2d44191cec6f3e91cb5fd7134c6
+    projectPath: Library\Artifacts\19\19d6b2d44191cec6f3e91cb5fd7134c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Library\Artifacts\1b\1bf61d6f116aa532364defcdfe720e25
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\1b\1bf61d6f116aa532364defcdfe720e25
+    projectPath: Library\Artifacts\1b\1bf61d6f116aa532364defcdfe720e25
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Library\Artifacts\1f\1f2bbd231af30f0c7043430c3bf4a2c7
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\1f\1f2bbd231af30f0c7043430c3bf4a2c7
+    projectPath: Library\Artifacts\1f\1f2bbd231af30f0c7043430c3bf4a2c7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\23\23b2099e4d36bc776715cdcf89b5cb44
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\23\23b2099e4d36bc776715cdcf89b5cb44
+    projectPath: Library\Artifacts\23\23b2099e4d36bc776715cdcf89b5cb44
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Library\Artifacts\28\2816e7518ab8c8ac7ac48158963c0cd8
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\28\2816e7518ab8c8ac7ac48158963c0cd8
+    projectPath: Library\Artifacts\28\2816e7518ab8c8ac7ac48158963c0cd8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Library\Artifacts\29\29d90ae36ac24fb2d384a4aaa33113d9
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\29\29d90ae36ac24fb2d384a4aaa33113d9
+    projectPath: Library\Artifacts\29\29d90ae36ac24fb2d384a4aaa33113d9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\34\343f5c9562588728ff681eb49699686d
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\34\343f5c9562588728ff681eb49699686d
+    projectPath: Library\Artifacts\34\343f5c9562588728ff681eb49699686d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\36\36ef5cc6b27ffafea7b0d787c67a3b59
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\36\36ef5cc6b27ffafea7b0d787c67a3b59
+    projectPath: Library\Artifacts\36\36ef5cc6b27ffafea7b0d787c67a3b59
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Library\Artifacts\4e\4e861b626776294dc27ccda909a05c28
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\4e\4e861b626776294dc27ccda909a05c28
+    projectPath: Library\Artifacts\4e\4e861b626776294dc27ccda909a05c28
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\50\500d9411f4afcff098102f27d2540b46
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\50\500d9411f4afcff098102f27d2540b46
+    projectPath: Library\Artifacts\50\500d9411f4afcff098102f27d2540b46
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Library\Artifacts\50\502209784d91a543dbd5d77c3fbf9fc8
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\50\502209784d91a543dbd5d77c3fbf9fc8
+    projectPath: Library\Artifacts\50\502209784d91a543dbd5d77c3fbf9fc8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Library\Artifacts\50\50dd5af66e16d2e420cf57980e2cbac5
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\50\50dd5af66e16d2e420cf57980e2cbac5
+    projectPath: Library\Artifacts\50\50dd5af66e16d2e420cf57980e2cbac5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\51\51216d59900ae0e991dbce07b1a828ee
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\51\51216d59900ae0e991dbce07b1a828ee
+    projectPath: Library\Artifacts\51\51216d59900ae0e991dbce07b1a828ee
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\55\55ab461261db5cc60169f377eecd7334
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\55\55ab461261db5cc60169f377eecd7334
+    projectPath: Library\Artifacts\55\55ab461261db5cc60169f377eecd7334
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\56\56f8a8fdc5a3217197fe6ab002c7245c
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\56\56f8a8fdc5a3217197fe6ab002c7245c
+    projectPath: Library\Artifacts\56\56f8a8fdc5a3217197fe6ab002c7245c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\5a\5ab588fb881a2a016a18f7ca7e142a24
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\5a\5ab588fb881a2a016a18f7ca7e142a24
+    projectPath: Library\Artifacts\5a\5ab588fb881a2a016a18f7ca7e142a24
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Library\Artifacts\61\61a72672c90733bce42f223869a31ae0
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\61\61a72672c90733bce42f223869a31ae0
+    projectPath: Library\Artifacts\61\61a72672c90733bce42f223869a31ae0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\63\6302419bddc3e5a1cfe8cd5a71052dc4
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\63\6302419bddc3e5a1cfe8cd5a71052dc4
+    projectPath: Library\Artifacts\63\6302419bddc3e5a1cfe8cd5a71052dc4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Library\Artifacts\64\64fbd4da47164d8b5ffee2e4f45e4cad
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\64\64fbd4da47164d8b5ffee2e4f45e4cad
+    projectPath: Library\Artifacts\64\64fbd4da47164d8b5ffee2e4f45e4cad
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\67\679defd15ec02ed4c823664d6c663d3f
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\67\679defd15ec02ed4c823664d6c663d3f
+    projectPath: Library\Artifacts\67\679defd15ec02ed4c823664d6c663d3f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\6d\6dc3012d7bd804e81de506612a107f1d
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\6d\6dc3012d7bd804e81de506612a107f1d
+    projectPath: Library\Artifacts\6d\6dc3012d7bd804e81de506612a107f1d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\6d\6dc8bc1ba62be4c0d4538433c0b4a3d2
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\6d\6dc8bc1ba62be4c0d4538433c0b4a3d2
+    projectPath: Library\Artifacts\6d\6dc8bc1ba62be4c0d4538433c0b4a3d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Library\Artifacts\6f\6ffddce5d12fbdb4fced700121f3af47
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\6f\6ffddce5d12fbdb4fced700121f3af47
+    projectPath: Library\Artifacts\6f\6ffddce5d12fbdb4fced700121f3af47
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\75\7522bf140eee51e2f7b5d8fd9efa9a43
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\75\7522bf140eee51e2f7b5d8fd9efa9a43
+    projectPath: Library\Artifacts\75\7522bf140eee51e2f7b5d8fd9efa9a43
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\80\80df686cfad99a714a81b500a04a4628
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\80\80df686cfad99a714a81b500a04a4628
+    projectPath: Library\Artifacts\80\80df686cfad99a714a81b500a04a4628
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Library\Artifacts\84\849ddf5f57bf7feec00a03ed93e3554b
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\84\849ddf5f57bf7feec00a03ed93e3554b
+    projectPath: Library\Artifacts\84\849ddf5f57bf7feec00a03ed93e3554b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Library\Artifacts\86\8669845fc71060ece9b539b455d6495e
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\86\8669845fc71060ece9b539b455d6495e
+    projectPath: Library\Artifacts\86\8669845fc71060ece9b539b455d6495e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\8a\8a2c2e31d2e100a22f9a237dcaeed229
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\8a\8a2c2e31d2e100a22f9a237dcaeed229
+    projectPath: Library\Artifacts\8a\8a2c2e31d2e100a22f9a237dcaeed229
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\90\90f5147ac579e345d1bd66563aadea31
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\90\90f5147ac579e345d1bd66563aadea31
+    projectPath: Library\Artifacts\90\90f5147ac579e345d1bd66563aadea31
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Library\Artifacts\98\98be3209b1344ae312e85401c8efa345
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\98\98be3209b1344ae312e85401c8efa345
+    projectPath: Library\Artifacts\98\98be3209b1344ae312e85401c8efa345
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\9d\9d8b1b1a164644f325c236a5fd32e95d
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\9d\9d8b1b1a164644f325c236a5fd32e95d
+    projectPath: Library\Artifacts\9d\9d8b1b1a164644f325c236a5fd32e95d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\9e\9e6e1014ec0a1199484266c6d24f9271
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\9e\9e6e1014ec0a1199484266c6d24f9271
+    projectPath: Library\Artifacts\9e\9e6e1014ec0a1199484266c6d24f9271
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\9e\9e8732502799f8c92582598b88b2d7ae
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\9e\9e8732502799f8c92582598b88b2d7ae
+    projectPath: Library\Artifacts\9e\9e8732502799f8c92582598b88b2d7ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Library\Artifacts\9f\9f46512b1ea1b6d9efc8a075206a9917
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\9f\9f46512b1ea1b6d9efc8a075206a9917
+    projectPath: Library\Artifacts\9f\9f46512b1ea1b6d9efc8a075206a9917
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Library\Artifacts\aa\aaad9fc3e4f33c9627ea777a5f505f71
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\aa\aaad9fc3e4f33c9627ea777a5f505f71
+    projectPath: Library\Artifacts\aa\aaad9fc3e4f33c9627ea777a5f505f71
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\b0\b04222ba95d1c7afd7cf8a035acc74a5
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\b0\b04222ba95d1c7afd7cf8a035acc74a5
+    projectPath: Library\Artifacts\b0\b04222ba95d1c7afd7cf8a035acc74a5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\ba\ba8c2cd543e25162e787331c45d5b89d
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\ba\ba8c2cd543e25162e787331c45d5b89d
+    projectPath: Library\Artifacts\ba\ba8c2cd543e25162e787331c45d5b89d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Library\Artifacts\bf\bf3c5a170486468d4562d9c5474076d9
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\bf\bf3c5a170486468d4562d9c5474076d9
+    projectPath: Library\Artifacts\bf\bf3c5a170486468d4562d9c5474076d9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Library\Artifacts\c0\c0f9474f29fa5594513792c1bca8abf2
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\c0\c0f9474f29fa5594513792c1bca8abf2
+    projectPath: Library\Artifacts\c0\c0f9474f29fa5594513792c1bca8abf2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\c4\c4e78c9ec5ba1e0ce3f8655e729febe8
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\c4\c4e78c9ec5ba1e0ce3f8655e729febe8
+    projectPath: Library\Artifacts\c4\c4e78c9ec5ba1e0ce3f8655e729febe8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\cc\cce5ac092b260d591d51730a92ef9194
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\cc\cce5ac092b260d591d51730a92ef9194
+    projectPath: Library\Artifacts\cc\cce5ac092b260d591d51730a92ef9194
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\cf\cfb6684c161bc7fb6e9c22e925732eac
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\cf\cfb6684c161bc7fb6e9c22e925732eac
+    projectPath: Library\Artifacts\cf\cfb6684c161bc7fb6e9c22e925732eac
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\d5\d5f22421c75cefdad792f5915a811ed8
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\d5\d5f22421c75cefdad792f5915a811ed8
+    projectPath: Library\Artifacts\d5\d5f22421c75cefdad792f5915a811ed8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Library\Artifacts\d7\d79186b3aad124b87ecb9baeeb2d1d22
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\d7\d79186b3aad124b87ecb9baeeb2d1d22
+    projectPath: Library\Artifacts\d7\d79186b3aad124b87ecb9baeeb2d1d22
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\e2\e29cf582065606c50cdeaccd9bd05814
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\e2\e29cf582065606c50cdeaccd9bd05814
+    projectPath: Library\Artifacts\e2\e29cf582065606c50cdeaccd9bd05814
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Library\Artifacts\e4\e43ffeb2e70193fe7455de41a885afbd
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\e4\e43ffeb2e70193fe7455de41a885afbd
+    projectPath: Library\Artifacts\e4\e43ffeb2e70193fe7455de41a885afbd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\e6\e6d40367f0c75c6cacfe2398a1dfe1d2
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\e6\e6d40367f0c75c6cacfe2398a1dfe1d2
+    projectPath: Library\Artifacts\e6\e6d40367f0c75c6cacfe2398a1dfe1d2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\e7\e715d67cbf65aed3ea2001ad6726e4fb
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\e7\e715d67cbf65aed3ea2001ad6726e4fb
+    projectPath: Library\Artifacts\e7\e715d67cbf65aed3ea2001ad6726e4fb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Library\Artifacts\e8\e8dc57d43ed5d3e695e32105d4ba3679
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\e8\e8dc57d43ed5d3e695e32105d4ba3679
+    projectPath: Library\Artifacts\e8\e8dc57d43ed5d3e695e32105d4ba3679
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Library\Artifacts\ec\ec4432f7f8d8877e2079843439e21cce
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\ec\ec4432f7f8d8877e2079843439e21cce
+    projectPath: Library\Artifacts\ec\ec4432f7f8d8877e2079843439e21cce
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Experiment2\Library\Artifacts\f4\f49ea4fcfe161ca7c755b4c983c4fd50
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\f4\f49ea4fcfe161ca7c755b4c983c4fd50
+    projectPath: Library\Artifacts\f4\f49ea4fcfe161ca7c755b4c983c4fd50
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Library\Artifacts\fd\fd97e2dd20b72dc438464aaf1a0e21a9
+    fullPath: E:\unity_experiment\Experiment2\Library\Artifacts\fd\fd97e2dd20b72dc438464aaf1a0e21a9
+    projectPath: Library\Artifacts\fd\fd97e2dd20b72dc438464aaf1a0e21a9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Library\CurrentLayout-default.dwlt
+    fullPath: E:\unity_experiment\Experiment2\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\EditorInstance.json
+    fullPath: E:\unity_experiment\Experiment2\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Library\gfu\cache\branches.yaml
+    fullPath: E:\unity_experiment\Experiment2\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\gfu\cache\gitlog.yaml
+    fullPath: E:\unity_experiment\Experiment2\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: E:\unity_experiment\Experiment2\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: E:\unity_experiment\Experiment2\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\gfu\cache\gituser.yaml
+    fullPath: E:\unity_experiment\Experiment2\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\gfu\cache\repoinfo.yaml
+    fullPath: E:\unity_experiment\Experiment2\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\SceneVisibilityState.asset
+    fullPath: E:\unity_experiment\Experiment2\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\SteamVR.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\SteamVR.dll
+    projectPath: Library\ScriptAssemblies\SteamVR.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\SteamVR_Actions.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\SteamVR_Actions.dll
+    projectPath: Library\ScriptAssemblies\SteamVR_Actions.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\SteamVR_Editor.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\SteamVR_Editor.dll
+    projectPath: Library\ScriptAssemblies\SteamVR_Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\SteamVR_Input_Editor.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\SteamVR_Input_Editor.dll
+    projectPath: Library\ScriptAssemblies\SteamVR_Input_Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\SteamVR_Windows_EditorHelper.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\SteamVR_Windows_EditorHelper.dll
+    projectPath: Library\ScriptAssemblies\SteamVR_Windows_EditorHelper.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
+    projectPath: Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\Unity.XR.Management.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\Unity.XR.Management.dll
+    projectPath: Library\ScriptAssemblies\Unity.XR.Management.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\Unity.XR.OpenVR.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\Unity.XR.OpenVR.dll
+    projectPath: Library\ScriptAssemblies\Unity.XR.OpenVR.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\Unity.XR.OpenVR.Editor.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\Unity.XR.OpenVR.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.XR.OpenVR.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    fullPath: E:\unity_experiment\Experiment2\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: E:\unity_experiment\Experiment2\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: E:\unity_experiment\Experiment2\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\shadercompiler-UnityShaderCompiler.exe16.log
+    fullPath: E:\unity_experiment\Experiment2\Library\shadercompiler-UnityShaderCompiler.exe16.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe16.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\SourceAssetDB
+    fullPath: E:\unity_experiment\Experiment2\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Library\SourceAssetDB-lock
+    fullPath: E:\unity_experiment\Experiment2\Library\SourceAssetDB-lock
+    projectPath: Library\SourceAssetDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\.icon.png
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\.icon.png
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\.icon.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\0188ec438976e5849b40a2c1ce5f20f9\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\0188ec438976e5849b40a2c1ce5f20f9\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\0188ec438976e5849b40a2c1ce5f20f9\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\0188ec438976e5849b40a2c1ce5f20f9\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\0188ec438976e5849b40a2c1ce5f20f9\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\0188ec438976e5849b40a2c1ce5f20f9\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\0188ec438976e5849b40a2c1ce5f20f9\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\0188ec438976e5849b40a2c1ce5f20f9\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\0188ec438976e5849b40a2c1ce5f20f9\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\1186e0491049e40ba8e7e19e418d9e8e\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\1186e0491049e40ba8e7e19e418d9e8e\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\1186e0491049e40ba8e7e19e418d9e8e\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\1186e0491049e40ba8e7e19e418d9e8e\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\1186e0491049e40ba8e7e19e418d9e8e\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\1186e0491049e40ba8e7e19e418d9e8e\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\1186e0491049e40ba8e7e19e418d9e8e\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\1186e0491049e40ba8e7e19e418d9e8e\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\1186e0491049e40ba8e7e19e418d9e8e\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\136dc24f151211d438acee17aff4e934\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\136dc24f151211d438acee17aff4e934\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\136dc24f151211d438acee17aff4e934\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\136dc24f151211d438acee17aff4e934\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\136dc24f151211d438acee17aff4e934\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\136dc24f151211d438acee17aff4e934\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\136dc24f151211d438acee17aff4e934\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\136dc24f151211d438acee17aff4e934\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\136dc24f151211d438acee17aff4e934\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\151a1d946b98deb4b98445400983ba92\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\151a1d946b98deb4b98445400983ba92\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\151a1d946b98deb4b98445400983ba92\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\151a1d946b98deb4b98445400983ba92\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\151a1d946b98deb4b98445400983ba92\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\151a1d946b98deb4b98445400983ba92\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\151a1d946b98deb4b98445400983ba92\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\151a1d946b98deb4b98445400983ba92\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\151a1d946b98deb4b98445400983ba92\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\15ca2bebf173f2d4484686a03a45b56d\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\15ca2bebf173f2d4484686a03a45b56d\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\15ca2bebf173f2d4484686a03a45b56d\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\15ca2bebf173f2d4484686a03a45b56d\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\15ca2bebf173f2d4484686a03a45b56d\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\15ca2bebf173f2d4484686a03a45b56d\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\15ca2bebf173f2d4484686a03a45b56d\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\15ca2bebf173f2d4484686a03a45b56d\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\15ca2bebf173f2d4484686a03a45b56d\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\181f65fb096cedd4493bc9971257d8b1\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\181f65fb096cedd4493bc9971257d8b1\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\181f65fb096cedd4493bc9971257d8b1\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\181f65fb096cedd4493bc9971257d8b1\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\181f65fb096cedd4493bc9971257d8b1\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\181f65fb096cedd4493bc9971257d8b1\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\181f65fb096cedd4493bc9971257d8b1\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\181f65fb096cedd4493bc9971257d8b1\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\181f65fb096cedd4493bc9971257d8b1\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\18e096a98c2704c40a818dd1214cd179\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\18e096a98c2704c40a818dd1214cd179\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\18e096a98c2704c40a818dd1214cd179\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\18e096a98c2704c40a818dd1214cd179\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\18e096a98c2704c40a818dd1214cd179\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\18e096a98c2704c40a818dd1214cd179\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\21206c65839f84d0e9ae14bc1fdc68db\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\21206c65839f84d0e9ae14bc1fdc68db\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\21206c65839f84d0e9ae14bc1fdc68db\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\21206c65839f84d0e9ae14bc1fdc68db\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\21206c65839f84d0e9ae14bc1fdc68db\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\21206c65839f84d0e9ae14bc1fdc68db\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\21206c65839f84d0e9ae14bc1fdc68db\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\21206c65839f84d0e9ae14bc1fdc68db\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\21206c65839f84d0e9ae14bc1fdc68db\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\23c8bee69b591054094d32918f98facd\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\23c8bee69b591054094d32918f98facd\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\23c8bee69b591054094d32918f98facd\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\23c8bee69b591054094d32918f98facd\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\23c8bee69b591054094d32918f98facd\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\23c8bee69b591054094d32918f98facd\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\23c8bee69b591054094d32918f98facd\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\23c8bee69b591054094d32918f98facd\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\23c8bee69b591054094d32918f98facd\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\2590b98e5cafc4e32b61170d7b917ee6\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\2590b98e5cafc4e32b61170d7b917ee6\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\2590b98e5cafc4e32b61170d7b917ee6\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\2590b98e5cafc4e32b61170d7b917ee6\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\2590b98e5cafc4e32b61170d7b917ee6\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\2590b98e5cafc4e32b61170d7b917ee6\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\2590b98e5cafc4e32b61170d7b917ee6\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\2590b98e5cafc4e32b61170d7b917ee6\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\2590b98e5cafc4e32b61170d7b917ee6\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\33d3e83914445de4d92ab0d77d7fa3f9\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\33d3e83914445de4d92ab0d77d7fa3f9\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\33d3e83914445de4d92ab0d77d7fa3f9\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\33d3e83914445de4d92ab0d77d7fa3f9\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\33d3e83914445de4d92ab0d77d7fa3f9\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\33d3e83914445de4d92ab0d77d7fa3f9\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\33d3e83914445de4d92ab0d77d7fa3f9\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\33d3e83914445de4d92ab0d77d7fa3f9\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\33d3e83914445de4d92ab0d77d7fa3f9\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\480071253ef427a4cbc55ef1fedca3e5\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\480071253ef427a4cbc55ef1fedca3e5\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\480071253ef427a4cbc55ef1fedca3e5\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\480071253ef427a4cbc55ef1fedca3e5\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\480071253ef427a4cbc55ef1fedca3e5\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\480071253ef427a4cbc55ef1fedca3e5\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\480071253ef427a4cbc55ef1fedca3e5\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\480071253ef427a4cbc55ef1fedca3e5\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\480071253ef427a4cbc55ef1fedca3e5\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\48c22d5d7479fcb49ab3be0cdd2ccec0\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\48c22d5d7479fcb49ab3be0cdd2ccec0\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\48c22d5d7479fcb49ab3be0cdd2ccec0\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\48c22d5d7479fcb49ab3be0cdd2ccec0\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\48c22d5d7479fcb49ab3be0cdd2ccec0\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\48c22d5d7479fcb49ab3be0cdd2ccec0\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\48c22d5d7479fcb49ab3be0cdd2ccec0\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\48c22d5d7479fcb49ab3be0cdd2ccec0\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\48c22d5d7479fcb49ab3be0cdd2ccec0\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\4ba86e5b8d6657b4184ff6b976ac3d3e\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\4ba86e5b8d6657b4184ff6b976ac3d3e\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\4ba86e5b8d6657b4184ff6b976ac3d3e\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\4ba86e5b8d6657b4184ff6b976ac3d3e\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\4ba86e5b8d6657b4184ff6b976ac3d3e\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\4ba86e5b8d6657b4184ff6b976ac3d3e\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\4ba86e5b8d6657b4184ff6b976ac3d3e\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\4ba86e5b8d6657b4184ff6b976ac3d3e\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\4ba86e5b8d6657b4184ff6b976ac3d3e\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\555cd6f54c03341b1970d950df1a5ee5\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\555cd6f54c03341b1970d950df1a5ee5\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\555cd6f54c03341b1970d950df1a5ee5\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\555cd6f54c03341b1970d950df1a5ee5\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\555cd6f54c03341b1970d950df1a5ee5\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\555cd6f54c03341b1970d950df1a5ee5\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\555cd6f54c03341b1970d950df1a5ee5\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\555cd6f54c03341b1970d950df1a5ee5\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\555cd6f54c03341b1970d950df1a5ee5\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\5a2082a44711bad4b90f693579c2b336\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\5a2082a44711bad4b90f693579c2b336\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\5a2082a44711bad4b90f693579c2b336\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\5a2082a44711bad4b90f693579c2b336\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\5a2082a44711bad4b90f693579c2b336\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\5a2082a44711bad4b90f693579c2b336\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\5a2082a44711bad4b90f693579c2b336\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\5a2082a44711bad4b90f693579c2b336\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\5a2082a44711bad4b90f693579c2b336\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\636d33ae594884e7d80b569f429d245d\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\636d33ae594884e7d80b569f429d245d\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\636d33ae594884e7d80b569f429d245d\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\636d33ae594884e7d80b569f429d245d\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\636d33ae594884e7d80b569f429d245d\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\636d33ae594884e7d80b569f429d245d\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\636d33ae594884e7d80b569f429d245d\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\636d33ae594884e7d80b569f429d245d\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\636d33ae594884e7d80b569f429d245d\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\68c7e4565cde54155bb78d8e935f1dd4\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\68c7e4565cde54155bb78d8e935f1dd4\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\68c7e4565cde54155bb78d8e935f1dd4\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\68c7e4565cde54155bb78d8e935f1dd4\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\68c7e4565cde54155bb78d8e935f1dd4\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\68c7e4565cde54155bb78d8e935f1dd4\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\68c7e4565cde54155bb78d8e935f1dd4\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\68c7e4565cde54155bb78d8e935f1dd4\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\68c7e4565cde54155bb78d8e935f1dd4\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\68c7e4565cde54155bb78d8e935f1ddb\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\68c7e4565cde54155bb78d8e935f1ddb\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\68c7e4565cde54155bb78d8e935f1ddb\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\68c7e4565cde54155bb78d8e935f1ddb\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\68c7e4565cde54155bb78d8e935f1ddb\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\68c7e4565cde54155bb78d8e935f1ddb\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\68c7e4565cde54155bb78d8e935f1ddb\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\68c7e4565cde54155bb78d8e935f1ddb\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\68c7e4565cde54155bb78d8e935f1ddb\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\6e4df876417ac4c4f8862a5234b25615\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\6e4df876417ac4c4f8862a5234b25615\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\6e4df876417ac4c4f8862a5234b25615\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\6e4df876417ac4c4f8862a5234b25615\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\6e4df876417ac4c4f8862a5234b25615\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\6e4df876417ac4c4f8862a5234b25615\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\6e4df876417ac4c4f8862a5234b25615\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\6e4df876417ac4c4f8862a5234b25615\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\6e4df876417ac4c4f8862a5234b25615\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\720712be6e31c444f88f57bb85bf5fa5\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\720712be6e31c444f88f57bb85bf5fa5\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\720712be6e31c444f88f57bb85bf5fa5\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\720712be6e31c444f88f57bb85bf5fa5\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\720712be6e31c444f88f57bb85bf5fa5\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\720712be6e31c444f88f57bb85bf5fa5\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\790749ba7e4b18141953e39cb13f1b79\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\790749ba7e4b18141953e39cb13f1b79\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\790749ba7e4b18141953e39cb13f1b79\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\790749ba7e4b18141953e39cb13f1b79\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\790749ba7e4b18141953e39cb13f1b79\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\790749ba7e4b18141953e39cb13f1b79\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\790749ba7e4b18141953e39cb13f1b79\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\790749ba7e4b18141953e39cb13f1b79\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\790749ba7e4b18141953e39cb13f1b79\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\863e1b9976c4e46d29bf83928b3a8ab2\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\863e1b9976c4e46d29bf83928b3a8ab2\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\863e1b9976c4e46d29bf83928b3a8ab2\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\863e1b9976c4e46d29bf83928b3a8ab2\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\863e1b9976c4e46d29bf83928b3a8ab2\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\863e1b9976c4e46d29bf83928b3a8ab2\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\863e1b9976c4e46d29bf83928b3a8ab2\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\863e1b9976c4e46d29bf83928b3a8ab2\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\863e1b9976c4e46d29bf83928b3a8ab2\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\868fbb4c41814baebc00f96e24ede2f8\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\868fbb4c41814baebc00f96e24ede2f8\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\868fbb4c41814baebc00f96e24ede2f8\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\868fbb4c41814baebc00f96e24ede2f8\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\868fbb4c41814baebc00f96e24ede2f8\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\868fbb4c41814baebc00f96e24ede2f8\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\868fbb4c41814baebc00f96e24ede2f8\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\868fbb4c41814baebc00f96e24ede2f8\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\868fbb4c41814baebc00f96e24ede2f8\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\877ef3585573ce44eab899298be23158\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\877ef3585573ce44eab899298be23158\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\877ef3585573ce44eab899298be23158\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\877ef3585573ce44eab899298be23158\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\877ef3585573ce44eab899298be23158\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\877ef3585573ce44eab899298be23158\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\877ef3585573ce44eab899298be23158\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\877ef3585573ce44eab899298be23158\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\877ef3585573ce44eab899298be23158\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\99b48d4d4f6a66340ab06bd487d70a45\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\99b48d4d4f6a66340ab06bd487d70a45\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\99b48d4d4f6a66340ab06bd487d70a45\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\99b48d4d4f6a66340ab06bd487d70a45\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\99b48d4d4f6a66340ab06bd487d70a45\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\99b48d4d4f6a66340ab06bd487d70a45\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\a0ded7adcc817ce489fec07977f16d13\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\a0ded7adcc817ce489fec07977f16d13\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\a0ded7adcc817ce489fec07977f16d13\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\a0ded7adcc817ce489fec07977f16d13\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\a0ded7adcc817ce489fec07977f16d13\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\a0ded7adcc817ce489fec07977f16d13\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\a83159a46d87d2a4f8cec651049b9231\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\a83159a46d87d2a4f8cec651049b9231\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\a83159a46d87d2a4f8cec651049b9231\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\a83159a46d87d2a4f8cec651049b9231\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\a83159a46d87d2a4f8cec651049b9231\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\a83159a46d87d2a4f8cec651049b9231\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\a83159a46d87d2a4f8cec651049b9231\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\a83159a46d87d2a4f8cec651049b9231\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\a83159a46d87d2a4f8cec651049b9231\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c0809c8f0ddd4b546939f6fe7a94ac6c\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c0809c8f0ddd4b546939f6fe7a94ac6c\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c0809c8f0ddd4b546939f6fe7a94ac6c\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c0809c8f0ddd4b546939f6fe7a94ac6c\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c0809c8f0ddd4b546939f6fe7a94ac6c\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c0809c8f0ddd4b546939f6fe7a94ac6c\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c0809c8f0ddd4b546939f6fe7a94ac6c\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c0809c8f0ddd4b546939f6fe7a94ac6c\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c0809c8f0ddd4b546939f6fe7a94ac6c\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c5c83d14802e712408f23409f3c59e26\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c5c83d14802e712408f23409f3c59e26\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c5c83d14802e712408f23409f3c59e26\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c5c83d14802e712408f23409f3c59e26\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c5c83d14802e712408f23409f3c59e26\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c5c83d14802e712408f23409f3c59e26\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c5c83d14802e712408f23409f3c59e26\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c5c83d14802e712408f23409f3c59e26\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c5c83d14802e712408f23409f3c59e26\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c743ae24ee231884887054d20ccdd0ab\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c743ae24ee231884887054d20ccdd0ab\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c743ae24ee231884887054d20ccdd0ab\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c743ae24ee231884887054d20ccdd0ab\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c743ae24ee231884887054d20ccdd0ab\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c743ae24ee231884887054d20ccdd0ab\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c743ae24ee231884887054d20ccdd0ab\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c743ae24ee231884887054d20ccdd0ab\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c743ae24ee231884887054d20ccdd0ab\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c743ae24ee231884887054d20ccdd0ae\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c743ae24ee231884887054d20ccdd0ae\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c743ae24ee231884887054d20ccdd0ae\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c743ae24ee231884887054d20ccdd0ae\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c743ae24ee231884887054d20ccdd0ae\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c743ae24ee231884887054d20ccdd0ae\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c743ae24ee231884887054d20ccdd0ae\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c743ae24ee231884887054d20ccdd0ae\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\c743ae24ee231884887054d20ccdd0ae\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\cad92998c5182496e8b989b406d9f156\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\cad92998c5182496e8b989b406d9f156\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\cad92998c5182496e8b989b406d9f156\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\cad92998c5182496e8b989b406d9f156\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\cad92998c5182496e8b989b406d9f156\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\cad92998c5182496e8b989b406d9f156\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\d516f2a1bec6a9645a084ef8c9237132\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\d516f2a1bec6a9645a084ef8c9237132\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\d516f2a1bec6a9645a084ef8c9237132\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\d516f2a1bec6a9645a084ef8c9237132\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\d516f2a1bec6a9645a084ef8c9237132\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\d516f2a1bec6a9645a084ef8c9237132\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\d516f2a1bec6a9645a084ef8c9237132\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\d516f2a1bec6a9645a084ef8c9237132\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\d516f2a1bec6a9645a084ef8c9237132\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\d601ecb6855bb432bae2aa49d8fd82e8\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\d601ecb6855bb432bae2aa49d8fd82e8\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\d601ecb6855bb432bae2aa49d8fd82e8\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\d601ecb6855bb432bae2aa49d8fd82e8\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\d601ecb6855bb432bae2aa49d8fd82e8\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\d601ecb6855bb432bae2aa49d8fd82e8\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\d601ecb6855bb432bae2aa49d8fd82e8\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\d601ecb6855bb432bae2aa49d8fd82e8\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\d601ecb6855bb432bae2aa49d8fd82e8\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\dae2ecee8a704dd59797e26554ff8606\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\dae2ecee8a704dd59797e26554ff8606\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\dae2ecee8a704dd59797e26554ff8606\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\dae2ecee8a704dd59797e26554ff8606\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\dae2ecee8a704dd59797e26554ff8606\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\dae2ecee8a704dd59797e26554ff8606\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\dae2ecee8a704dd59797e26554ff8606\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\dae2ecee8a704dd59797e26554ff8606\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\dae2ecee8a704dd59797e26554ff8606\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\ddb8611e748af425a82a497ac5a98c0c\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\ddb8611e748af425a82a497ac5a98c0c\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\ddb8611e748af425a82a497ac5a98c0c\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\ddb8611e748af425a82a497ac5a98c0c\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\ddb8611e748af425a82a497ac5a98c0c\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\ddb8611e748af425a82a497ac5a98c0c\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\ddb8611e748af425a82a497ac5a98c0c\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\ddb8611e748af425a82a497ac5a98c0c\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\ddb8611e748af425a82a497ac5a98c0c\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\f81094832d834c64d93b198cb16b6a3e\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\f81094832d834c64d93b198cb16b6a3e\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\f81094832d834c64d93b198cb16b6a3e\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\f81094832d834c64d93b198cb16b6a3e\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\f81094832d834c64d93b198cb16b6a3e\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\f81094832d834c64d93b198cb16b6a3e\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\f81094832d834c64d93b198cb16b6a3e\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\f81094832d834c64d93b198cb16b6a3e\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\f81094832d834c64d93b198cb16b6a3e\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\f81094832d834c64d93b198cb16b6a3e\preview.png
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\f81094832d834c64d93b198cb16b6a3e\preview.png
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\f81094832d834c64d93b198cb16b6a3e\preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\f9fc9b08ecd899944adf9860b4abd6b6\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\f9fc9b08ecd899944adf9860b4abd6b6\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\f9fc9b08ecd899944adf9860b4abd6b6\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\f9fc9b08ecd899944adf9860b4abd6b6\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\f9fc9b08ecd899944adf9860b4abd6b6\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\f9fc9b08ecd899944adf9860b4abd6b6\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\f9fc9b08ecd899944adf9860b4abd6b6\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\f9fc9b08ecd899944adf9860b4abd6b6\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\f9fc9b08ecd899944adf9860b4abd6b6\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\fe5abeadcbe591e4fa9107fbc02f3998\asset
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\fe5abeadcbe591e4fa9107fbc02f3998\asset
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\fe5abeadcbe591e4fa9107fbc02f3998\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\fe5abeadcbe591e4fa9107fbc02f3998\asset.meta
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\fe5abeadcbe591e4fa9107fbc02f3998\asset.meta
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\fe5abeadcbe591e4fa9107fbc02f3998\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\fe5abeadcbe591e4fa9107fbc02f3998\pathname
+    fullPath: E:\unity_experiment\Experiment2\Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\fe5abeadcbe591e4fa9107fbc02f3998\pathname
+    projectPath: Temp\Export Package\81ede69a675d7a246b4d8092d9e1e7a1\fe5abeadcbe591e4fa9107fbc02f3998\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityLockfile
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-03cfb275972392e4387c50aaaa9e9b88
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-03cfb275972392e4387c50aaaa9e9b88
+    projectPath: Temp\UnityTempFile-03cfb275972392e4387c50aaaa9e9b88
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-098dea6a585810e4399a98bec8c14b93
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-098dea6a585810e4399a98bec8c14b93
+    projectPath: Temp\UnityTempFile-098dea6a585810e4399a98bec8c14b93
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-0dd81b649913e894084b12d93cbb5469
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-0dd81b649913e894084b12d93cbb5469
+    projectPath: Temp\UnityTempFile-0dd81b649913e894084b12d93cbb5469
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-17d4270a3ce71584fb097f982b0b282e
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-17d4270a3ce71584fb097f982b0b282e
+    projectPath: Temp\UnityTempFile-17d4270a3ce71584fb097f982b0b282e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-1961e939278e7074298ad339756c0a83
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-1961e939278e7074298ad339756c0a83
+    projectPath: Temp\UnityTempFile-1961e939278e7074298ad339756c0a83
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-1bc2a67fadf16c64baf9746ff5b2cb95
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-1bc2a67fadf16c64baf9746ff5b2cb95
+    projectPath: Temp\UnityTempFile-1bc2a67fadf16c64baf9746ff5b2cb95
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-2b6a4d163f6c73a4c81d85b898f06163
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-2b6a4d163f6c73a4c81d85b898f06163
+    projectPath: Temp\UnityTempFile-2b6a4d163f6c73a4c81d85b898f06163
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-314ed58f8aa007449bb91c1d54e7fe5f
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-314ed58f8aa007449bb91c1d54e7fe5f
+    projectPath: Temp\UnityTempFile-314ed58f8aa007449bb91c1d54e7fe5f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-4ac0bfd58bffde84ba103549a8d359ca
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-4ac0bfd58bffde84ba103549a8d359ca
+    projectPath: Temp\UnityTempFile-4ac0bfd58bffde84ba103549a8d359ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-518a44c83c4318746958c8b9f325b6b8
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-518a44c83c4318746958c8b9f325b6b8
+    projectPath: Temp\UnityTempFile-518a44c83c4318746958c8b9f325b6b8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-5e20f0dc049987d47888d8925ca2fada
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-5e20f0dc049987d47888d8925ca2fada
+    projectPath: Temp\UnityTempFile-5e20f0dc049987d47888d8925ca2fada
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-684b23e69d689fa4ca9634cc46e2339f
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-684b23e69d689fa4ca9634cc46e2339f
+    projectPath: Temp\UnityTempFile-684b23e69d689fa4ca9634cc46e2339f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-71272ed8d37672742af11dd187e25210
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-71272ed8d37672742af11dd187e25210
+    projectPath: Temp\UnityTempFile-71272ed8d37672742af11dd187e25210
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-7ff6a2e6e6fad714b9082d3a2b4e71af
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-7ff6a2e6e6fad714b9082d3a2b4e71af
+    projectPath: Temp\UnityTempFile-7ff6a2e6e6fad714b9082d3a2b4e71af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-80c04be7107ffd44a82c3dd1dd091ae4
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-80c04be7107ffd44a82c3dd1dd091ae4
+    projectPath: Temp\UnityTempFile-80c04be7107ffd44a82c3dd1dd091ae4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-876c233653aec054f96d299997046a2a
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-876c233653aec054f96d299997046a2a
+    projectPath: Temp\UnityTempFile-876c233653aec054f96d299997046a2a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-898bc774cabe80043a63ed0bbc5c7173
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-898bc774cabe80043a63ed0bbc5c7173
+    projectPath: Temp\UnityTempFile-898bc774cabe80043a63ed0bbc5c7173
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-9f73178808c1f7d4fb2e07db95c593ad
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-9f73178808c1f7d4fb2e07db95c593ad
+    projectPath: Temp\UnityTempFile-9f73178808c1f7d4fb2e07db95c593ad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-a4273c25ca649ac4ab837057a9e6e646
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-a4273c25ca649ac4ab837057a9e6e646
+    projectPath: Temp\UnityTempFile-a4273c25ca649ac4ab837057a9e6e646
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-a7c7d180795ab904db4cffdba91964bd
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-a7c7d180795ab904db4cffdba91964bd
+    projectPath: Temp\UnityTempFile-a7c7d180795ab904db4cffdba91964bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-b708b02630b6c204b9f31c7183f5c59d
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-b708b02630b6c204b9f31c7183f5c59d
+    projectPath: Temp\UnityTempFile-b708b02630b6c204b9f31c7183f5c59d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-cce1fe2f09924124886dfe4aaa7d0624
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-cce1fe2f09924124886dfe4aaa7d0624
+    projectPath: Temp\UnityTempFile-cce1fe2f09924124886dfe4aaa7d0624
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-d3bca89a288028f478ed33b895c356f2
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-d3bca89a288028f478ed33b895c356f2
+    projectPath: Temp\UnityTempFile-d3bca89a288028f478ed33b895c356f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-e951e4bb3d1187141869d38a26fa59f8
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-e951e4bb3d1187141869d38a26fa59f8
+    projectPath: Temp\UnityTempFile-e951e4bb3d1187141869d38a26fa59f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-e9f35c3f52e26cd489cfe7eaefcb65b7
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-e9f35c3f52e26cd489cfe7eaefcb65b7
+    projectPath: Temp\UnityTempFile-e9f35c3f52e26cd489cfe7eaefcb65b7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-f0d62d5112588f142beaef877ff76327
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-f0d62d5112588f142beaef877ff76327
+    projectPath: Temp\UnityTempFile-f0d62d5112588f142beaef877ff76327
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Experiment2\Temp\UnityTempFile-fedbf9ad6fb2140428e3804be373d8b6
+    fullPath: E:\unity_experiment\Experiment2\Temp\UnityTempFile-fedbf9ad6fb2140428e3804be373d8b6
+    projectPath: Temp\UnityTempFile-fedbf9ad6fb2140428e3804be373d8b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1

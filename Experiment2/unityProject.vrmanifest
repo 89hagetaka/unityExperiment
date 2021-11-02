@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.experiment2.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "Z:\\unity\\Experiment2\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Experiment2 [Testing]"
+        }
+      }
+    }
+  ]
+}
